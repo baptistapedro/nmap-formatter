@@ -1,0 +1,5 @@
+project: nmap-formatter
+target: nmap-formatter
+
+cmds:
+  - cmd: /nmap-formatter csv @@
